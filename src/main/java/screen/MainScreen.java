@@ -28,6 +28,9 @@ public class MainScreen extends JFrame implements ActionListener {
         GridLayout layout = new GridLayout(3,0);
         mainPanel.setLayout(layout);
 
+        txtScrapbook.setEditable(false);
+        txtScrapbook.setBackground(new Color(255, 255, 204));
+
         JScrollPane scrollScFusion = new JScrollPane (txtScFusion, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
         JScrollPane scrollScrapbook = new JScrollPane (txtScrapbook, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 
