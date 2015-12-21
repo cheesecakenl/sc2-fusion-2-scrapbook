@@ -2,6 +2,8 @@ package screen;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -39,7 +41,9 @@ public class MainScreen extends JFrame implements ActionListener {
     }
 
     public void actionPerformed(ActionEvent e) {
-        createOutput();
+        if (txtScFusion.getText() != null && !txtScFusion.getText().isEmpty()) {
+            createOutput();
+        }
     }
 
     private void createOutput() {
@@ -53,22 +57,29 @@ public class MainScreen extends JFrame implements ActionListener {
                 break;
             }
 
-            String time = line.substring(0, 8);
-            String mins = line.substring(9, 15);
-            String gas = line.substring(16, 21);
-
+            String time;
+            String mins;
+            String gas;
             String supply;
             String description;
 
-            // zerg
-            if (line.charAt(24) == 'L' || line.charAt(25) == 'L') {
-                supply = line.substring(27, 35);
-                description = line.substring(37, line.length());
-            } else {
-                supply = line.substring(22, 30);
-                description = line.substring(32, line.length());
-            }
+            try {
+                time = line.substring(0, 8);
+                mins = line.substring(9, 15);
+                gas = line.substring(16, 21);
 
+                // Zerg has extra fixed column for Larva
+                if (line.charAt(24) == 'L' || line.charAt(25) == 'L') {
+                    supply = line.substring(27, 35);
+                    description = line.substring(37, line.length());
+                } else {
+                    supply = line.substring(22, 30);
+                    description = line.substring(32, line.length());
+                }
+            } catch (IndexOutOfBoundsException ex) {
+                JOptionPane.showMessageDialog(this, "Invalid input", "Error", JOptionPane.ERROR_MESSAGE);
+                break;
+            }
 
             time = time.replaceAll(" ", "");
             int dot = time.indexOf('.');
@@ -91,7 +102,13 @@ public class MainScreen extends JFrame implements ActionListener {
             sb.append("\n");
         }
 
-        txtScrapbook.setText(sb.toString());
+        String output = sb.toString();
+
+        if (output != null && !output.isEmpty()) {
+            txtScrapbook.setText(output);
+            copyToClipboard(output);
+            JOptionPane.showMessageDialog(this, "Text is copied to clipboard", "Success", JOptionPane.INFORMATION_MESSAGE);
+        }
     }
 
     private String shortenInput(String input) {
@@ -103,5 +120,11 @@ public class MainScreen extends JFrame implements ActionListener {
         input = input.replaceAll("Move Chrono Boost From Nexus To", "Chrono boost");
 
         return input;
+    }
+
+    private void copyToClipboard(String text) {
+        StringSelection stringSelection = new StringSelection(text);
+        Clipboard clpbrd = Toolkit.getDefaultToolkit().getSystemClipboard();
+        clpbrd.setContents(stringSelection, null);
     }
 }

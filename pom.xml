@@ -6,14 +6,35 @@
 
     <groupId>nl.code4all</groupId>
     <artifactId>nl.code4all.scfusion.to.scrapbook</artifactId>
-    <version>1.0</version>
+    <version>0.1</version>
 
     <properties>
         <file-name>scfusion-2-scrapbook</file-name>
+        <app-title>SCFusion 2 Scrapbook converter</app-title>
+        <app-version>${project.version}</app-version>
     </properties>
 
     <build>
         <plugins>
+
+            <!-- create properties file from maven properties -->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>properties-maven-plugin</artifactId>
+                <version>1.0-alpha-2</version>
+                <executions>
+                    <execution>
+                        <phase>generate-resources</phase>
+                        <goals>
+                            <goal>write-project-properties</goal>
+                        </goals>
+                        <configuration>
+                            <outputFile>src/main/resources/app.properties</outputFile>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
             <!-- create jar -->
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
