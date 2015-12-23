@@ -1,0 +1,66 @@
+ 0:02.17:   50M    0G  12/ 15S - Build SCV
+ 0:14.49:  120M    0G  13/ 15S - Build SCV
+ 0:16.91:  100M    0G  14/ 15S - Build Supply Depot
+ 0:26.81:  114M    0G  14/ 15S - Build SCV
+ 0:38.65:  214M    0G  15/ 23S - Build Barracks
+ 0:39.13:   69M    0G  15/ 23S - Build SCV
+ 0:51.45:  180M    0G  16/ 23S - Build SCV
+ 0:52.92:  150M    0G  17/ 23S - Build Barracks
+ 0:58.65:   75M    0G  17/ 23S - Build Refinery
+
+Waypoint 1 satisfied:
+ 1:25.75:  367M    0G  17/ 23S
+Income:    633M    0G
+Buildings:  1 Command Center 1 Supply Depot 1 Refinery 1 Barracks
+Units:      17 SCV
+Research:  
+
+ 1:25.75:  367M    0G  17/ 23S - Lift Naked Barracks
+ 1:25.75:  367M    0G  17/ 23S - Move Three SCVs To Gas
+ 1:29.38:  410M    3G  17/ 23S - Land Naked Barracks
+ 1:29.38:  410M    3G  17/ 23S - Build Command Center
+ 1:33.10:   50M   12G  17/ 23S - Build Marine From Naked Barracks
+ 1:46.66:  150M   47G  18/ 23S - Build Barracks
+ 1:51.58:   50M   60G  18/ 23S - Build Marine From Naked Barracks
+ 1:55.79:   50M   71G  19/ 23S - Build Marine From Naked Barracks
+ 2:09.69:  165M  108G  20/ 23S - Build Marine From Naked Barracks
+ 2:13.91:  165M  119G  21/ 23S - Build Barracks With Tech Lab
+ 2:32.02:  355M  141G  21/ 23S - Build Marauder
+ 2:32.02:  255M  116G  23/ 23S - Build Factory
+
+Waypoint 2 satisfied:
+ 2:41.84:  212M   42G  23/ 38S
+Income:    516M  114G
+Buildings:  2 Command Center 1 Supply Depot 1 Refinery 2 Barracks 1 Barracks With Tech Lab
+Units:      17 SCV 4 Marine
+Research:  
+
+ 2:41.84:  212M   42G  23/ 38S - Build Marine From Naked Barracks
+ 2:41.84:  162M   42G  24/ 38S - Build Marine From Naked Barracks
+ 2:53.76:  261M   73G  25/ 38S - Build Marauder
+ 2:59.96:  240M   64G  27/ 38S - Build Marine From Naked Barracks
+ 2:59.96:  190M   64G  28/ 38S - Build Marine From Naked Barracks
+ 3:15.50:  339M  105G  29/ 38S - Build Marauder
+ 3:18.07:  271M   87G  31/ 38S - Build Marine From Naked Barracks
+ 3:18.07:  221M   87G  32/ 38S - Build Marine From Naked Barracks
+ 3:23.07:  239M  100G  33/ 38S - Build Starport
+ 3:24.01:  100M    2G  33/ 38S - Build Bunker
+ 3:36.19:  139M   34G  33/ 38S - Build Marine From Naked Barracks
+ 3:37.24:  101M   37G  34/ 38S - Build Marauder
+ 3:41.34:   50M   23G  36/ 38S - Build Marine From Naked Barracks
+ 3:45.55:   50M   34G  37/ 38S - Build SCV
+
+Waypoint 3 satisfied:
+ 3:53.00:   88M   53G  38/ 38S
+Income:    516M  114G
+Buildings:  2 Command Center 1 Supply Depot 1 Refinery 2 Barracks 1 Barracks With Tech Lab 1 Bunker 1 Factory
+Units:      17 SCV 10 Marine 3 Marauder
+Research:  
+
+
+Waypoint 4 satisfied:
+ 3:59.46:  168M   70G  38/ 38S
+Income:    594M  114G
+Buildings:  2 Command Center 1 Supply Depot 1 Refinery 2 Barracks 1 Barracks With Tech Lab 1 Bunker 1 Factory 1 Starport
+Units:      18 SCV 12 Marine 4 Marauder
+Research:

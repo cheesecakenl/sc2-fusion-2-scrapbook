@@ -1,0 +1,52 @@
+ 0:02.17:   50M    0G   3L  12/ 14S - Build Drone
+ 0:12.77:  100M    0G   2L  13/ 14S - Build Overlord
+ 0:16.91:   50M    0G   2L  13/ 14S - Build Drone
+ 0:30.89:  179M    0G   2L  14/ 22S - Build Drone
+ 0:30.89:  129M    0G   1L  15/ 22S - Build Drone
+ 0:34.78:  132M    0G   1L  16/ 22S - Build Drone
+ 0:43.44:  200M    0G   0L  17/ 22S - Build Spawning Pool
+ 1:03.49:  300M    0G   2L  16/ 22S - Build Macro Hatchery
+ 1:07.15:   50M    0G   2L  15/ 22S - Build Drone
+ 1:10.81:   50M    0G   2L  16/ 22S - Build Drone
+ 1:14.47:   50M    0G   1L  17/ 22S - Build Drone
+ 1:16.18:   25M    0G   0L  18/ 22S - Build Extractor
+ 1:19.94:   50M    0G   1L  17/ 22S - Build Drone
+ 1:30.54:  161M    0G   1L  18/ 22S - Build Zergling
+ 1:40.00:  269M    0G   1L  19/ 22S - Build Zergling
+ 1:40.00:  219M    0G   0L  20/ 22S - Build Queen
+ 1:40.00:   69M    0G   0L  22/ 22S - Move Three Drones To Gas
+ 2:01.97:  389M   50G   2L  22/ 22S - Build Baneling Nest
+ 2:01.97:  289M    0G   2L  21/ 22S - Build Overlord
+ 2:15.96:  377M   37G   3L  21/ 28S - Build Queen
+
+Waypoint 1 satisfied:
+ 2:16.23:  231M   37G   3L  23/ 28S
+Income:    594M  114G
+Buildings:  2 Hatchery 1 Extractor 1 Spawning Pool
+Units:      17 Drone 2 Overlord 4 Zergling 1 Queen
+Research:
+
+ 2:16.23:  231M   37G   3L  23/ 28S - Queen Spawn Larvae
+ 2:16.23:  231M   37G   3L  23/ 28S - Build Zergling
+ 2:16.23:  181M   37G   2L  24/ 28S - Build Zergling
+ 2:16.23:  131M   37G   1L  25/ 28S - Build Zergling
+ 2:23.48:  180M   56G   1L  26/ 36S - Build Zergling
+ 2:45.45:  430M  114G   7L  27/ 36S - Morph Baneling
+ 2:45.45:  405M   89G   7L  27/ 36S - Morph Baneling
+ 2:45.45:  380M   64G   7L  27/ 36S - Morph Baneling
+ 2:45.45:  355M   39G   7L  27/ 36S - Build Zergling
+ 2:45.45:  305M   39G   6L  28/ 36S - Build Zergling
+ 2:45.45:  255M   39G   5L  29/ 36S - Build Zergling
+ 2:45.45:  205M   39G   4L  30/ 36S - Build Zergling
+ 2:45.45:  155M   39G   3L  31/ 36S - Build Zergling
+ 2:45.45:  105M   39G   2L  32/ 36S - Build Zergling
+ 2:45.45:   55M   39G   1L  33/ 36S - Build Zergling
+ 2:46.93:   25M   43G   0L  34/ 36S - Morph Baneling
+ 2:49.64:   37M   25G   1L  34/ 36S - Morph Baneling
+
+Waypoint 2 satisfied:
+ 3:04.13:  210M   38G   3L  34/ 36S
+Income:    594M  114G
+Buildings:  2 Hatchery 1 Extractor 1 Spawning Pool 1 Baneling Nest
+Units:      17 Drone 3 Overlord 21 Zergling 5 Baneling 2 Queen
+Research:

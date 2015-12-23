@@ -6,13 +6,21 @@
 
     <groupId>nl.code4all</groupId>
     <artifactId>nl.code4all.scfusion.to.scrapbook</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
 
     <properties>
         <file-name>scfusion-2-scrapbook</file-name>
         <app-title>SCFusion 2 Scrapbook converter</app-title>
         <app-version>${project.version}</app-version>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
@@ -41,7 +49,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>Fusion2Scrapbook</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
@@ -79,7 +87,7 @@
                             <outfile>${project.build.directory}/${file-name}-${project.version}.exe</outfile>
                             <downloadUrl>http://java.com/download</downloadUrl>
                             <classPath>
-                                <mainClass>Main</mainClass>
+                                <mainClass>Fusion2Scrapbook</mainClass>
                                 <preCp>anything</preCp>
                             </classPath>
                             <icon>beaker-8x.ico</icon>

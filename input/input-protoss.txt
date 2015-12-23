@@ -1,0 +1,171 @@
+ 0:02.17:   50M    0G  12/ 15S - Build Probe
+ 0:10.67:   75M    0G  13/ 15S - Build Assimilator
+ 0:15.08:   50M    0G  13/ 15S - Build Probe
+ 0:22.91:  100M    0G  14/ 15S - Build Pylon
+ 0:27.12:   50M    0G  14/ 15S - Build Probe
+ 0:32.41:   69M    0G  15/ 15S - Move Three Probes To Gas
+ 0:41.03:  165M   15G  15/ 23S - Build Probe
+ 0:51.74:  242M   43G  16/ 23S - Build Probe
+ 0:51.74:  192M   43G  17/ 23S - Build Gateway
+ 1:02.45:  170M   71G  17/ 23S - Build Probe
+ 1:02.45:  120M   71G  18/ 23S - Build Assimilator
+ 1:27.82:  400M  138G  18/ 23S - Build Nexus
+ 1:27.82:    0M  138G  18/ 23S - Move Three Probes To Gas
+ 1:41.67:  150M  203G  18/ 23S - Build Cybernetics Core
+ 1:46.77:   50M  229G  18/ 23S - Build Probe
+ 1:57.49:  122M  286G  19/ 23S - Build Probe
+ 2:08.20:  207M  342G  20/ 23S - Build Probe
+ 2:08.20:  157M  342G  21/ 23S - Build Pylon
+ 2:17.90:  182M  393G  21/ 23S - Build Stargate
+ 2:21.19:   75M  260G  21/ 23S - Build Assimilator
+ 2:25.04:   50M  280G  21/ 23S - Build Probe
+ 2:35.75:  156M  336G  22/ 31S - Build Probe
+ 2:38.69:  150M  352G  23/ 31S - Build Gateway
+ 2:42.13:   50M  370G  23/ 46S - Build Probe
+ 2:42.93:   12M  374G  24/ 46S - Move Three Probes To Gas
+ 2:46.47:   54M  395G  24/ 46S - Build Probe
+ 2:52.84:   90M  444G  25/ 46S - Build Probe
+ 2:57.18:  102M  478G  26/ 46S - Build Probe
+ 3:03.55:  149M  529G  27/ 46S - Build Probe
+ 3:07.89:  169M  563G  28/ 46S - Build Probe
+ 3:14.27:  229M  613G  29/ 46S - Build Probe
+ 3:18.60:  258M  647G  30/ 46S - Build Probe
+ 3:24.98:  332M  697G  31/ 46S - Build Probe
+ 3:29.32:  370M  731G  32/ 46S - Build Probe
+ 3:35.69:  456M  781G  33/ 46S - Build Probe
+ 3:35.69:  406M  781G  34/ 46S - Build Stalker
+ 3:40.03:  378M  765G  36/ 46S - Build Probe
+ 3:46.40:  478M  816G  37/ 46S - Build Probe
+ 3:50.74:  534M  850G  38/ 46S - Build Probe
+ 3:57.11:  645M  900G  39/ 46S - Build Probe
+ 4:01.45:  708M  934G  40/ 46S - Build Probe
+ 4:07.83:  831M  984G  41/ 46S - Build Probe
+ 4:07.83:  781M  984G  42/ 46S - Build Twilight Council
+ 4:07.83:  631M  884G  42/ 46S - Build Pylon
+ 4:07.83:  531M  884G  42/ 46S - Build Nexus
+ 4:08.59:  150M  890G  42/ 46S - Build Gateway
+ 4:12.16:   87M  918G  42/ 46S - Build Probe
+ 4:18.54:  208M  968G  43/ 46S - Build Probe
+ 4:18.54:  158M  968G  44/ 46S - Build Zealot
+ 4:25.94:  273M 1027G  46/ 54S - Build Probe
+ 4:29.25:  323M 1053G  47/ 54S - Build Probe
+ 4:29.25:  273M 1053G  48/ 54S - Build Gateway
+ 4:29.25:  123M 1053G  48/ 54S - Build Pylon
+ 4:36.65:  243M 1111G  48/ 54S - Build Probe
+ 4:38.43:  250M 1125G  49/ 54S - Build Void Ray
+ 4:39.97:   50M  987G  52/ 54S - Build Probe
+ 4:47.37:  245M 1045G  53/ 62S - Build Stalker
+ 4:47.37:  120M  995G  55/ 62S - Build Pylon
+ 4:47.37:   20M  995G  55/ 62S - Move Chrono Boost From Nexus To Gateway
+ 4:48.29:   50M 1002G  55/ 62S - Build Probe
+ 4:50.68:   79M 1021G  56/ 62S - Build Probe
+
+Waypoint 1 satisfied:
+ 4:55.69:  199M 1061G  57/ 62S
+Income:   1514M  342G
+Buildings:  2 Nexus 4 Pylon 3 Assimilator 3 Gateway 1 Cybernetics Core 1 Twilight Council 1 Stargate
+Units:      46 Probe 1 Zealot 1 Stalker
+Research:
+
+ 5:00.61:  371M 1099G  57/ 62S - Build Probe
+ 5:00.61:  321M 1099G  58/ 62S - Build Pylon
+ 5:01.39:  247M 1106G  58/ 62S - Build Probe
+ 5:01.39:  197M 1106G  59/ 62S - Build Zealot
+ 5:12.11:  480M 1190G  61/ 70S - Build Probe
+ 5:12.11:  430M 1190G  62/ 70S - Build Zealot
+ 5:13.83:  393M 1203G  64/ 70S - Build Stalker
+ 5:16.35:  362M 1173G  66/ 70S - Build Zealot
+ 5:16.35:  262M 1173G  68/ 70S - Build Gateway
+ 5:16.35:  112M 1173G  68/ 70S - Build Probe
+ 5:17.36:  100M 1181G  69/ 70S - Build Pylon
+ 5:28.93:  450M 1272G  69/ 93S - Build Stalker
+ 5:39.64:  773M 1306G  71/101S - Build Stalker
+ 5:39.64:  648M 1256G  73/101S - Build Probe
+ 5:39.64:  598M 1256G  74/101S - Build Probe
+ 5:39.64:  548M 1256G  75/101S - Build Probe
+ 5:40.30:  525M 1262G  76/101S - Build Sentry
+ 5:40.30:  475M 1162G  78/101S - Build Templar Archives
+ 5:43.89:  422M  990G  78/101S - Build Stalker
+ 5:59.36:  961M 1062G  80/101S - Build Zealot
+ 5:59.36:  861M 1062G  82/101S - Build Pylon
+ 6:03.45:  940M 1094G  82/101S - Build Zealot
+ 6:03.61:  847M 1095G  84/101S - Build Stalker
+ 6:03.61:  722M 1045G  86/101S - Build Void Ray
+ 6:03.61:  472M  895G  89/101S - Build Pylon
+ 6:03.61:  372M  895G  89/101S - Build Pylon
+ 6:16.53:  832M  997G  89/101S - Build High Templar
+ 6:16.53:  782M  847G  91/101S - Build Gateway
+ 6:16.53:  632M  847G  91/101S - Build Sentry
+ 6:16.53:  582M  747G  93/101S - Build Gateway
+ 6:16.53:  432M  747G  93/101S - Build Probe
+ 6:16.53:  382M  747G  94/101S - Build Probe
+ 6:16.53:  332M  747G  95/101S - Build Gateway
+ 6:21.74:  400M  787G  95/125S - Build Nexus
+ 6:26.90:  220M  828G  95/125S - Build Stalker
+ 6:26.90:   95M  778G  97/125S - Build Probe
+ 6:27.24:   60M  781G  98/125S - Build Probe
+ 6:30.07:  135M  803G  99/125S - Build Zealot
+ 6:30.41:   50M  806G 101/125S - Build Probe
+ 6:32.61:  100M  823G 102/125S - Build Pylon
+ 6:34.85:  100M  841G 102/125S - Build Zealot
+ 6:38.22:  150M  867G 104/125S - Build Gateway
+ 6:47.09:  414M  937G 104/125S - Build Void Ray
+ 6:47.09:  164M  787G 107/125S - Build Stalker
+ 6:54.02:  377M  791G 109/133S - Build Stalker
+ 6:56.38:  367M  760G 111/133S - Build Stalker
+ 6:57.34:  289M  718G 113/133S - Build Stalker
+ 7:02.39:  410M  707G 115/133S - Build Stalker
+ 7:03.63:  345M  667G 117/133S - Build Zealot
+ 7:06.81:  400M  692G 119/133S - Build Nexus
+ 7:09.42:  125M  713G 119/133S - Build Stalker
+ 7:12.02:  125M  683G 121/133S - Build Stalker
+ 7:17.52:  264M  676G 123/133S - Build Zealot
+ 7:17.52:  164M  676G 125/133S - Build Pylon
+ 7:20.48:  203M  700G 125/133S - Build Zealot
+ 7:25.32:  332M  738G 127/133S - Build Stalker
+ 7:25.32:  207M  688G 129/133S - Build Pylon
+ 7:26.82:  177M  699G 129/133S - Build Sentry
+ 7:27.77:  172M  607G 131/133S - Build Stalker
+ 7:34.20:  356M  607G 133/148S - Build Void Ray
+ 7:34.20:  106M  457G 136/148S - Build Sentry
+ 7:35.57:  125M  368G 138/148S - Build Stalker
+ 7:39.85:  214M  352G 140/156S - Build Zealot
+ 7:42.46:  245M  372G 142/156S - Build Zealot
+ 7:44.43:  244M  388G 144/164S - Build Stalker
+ 7:44.43:  119M  338G 146/164S - Build Probe
+ 7:45.54:  125M  347G 147/164S - Build Stalker
+ 7:53.63:  406M  360G 149/164S - Build Stalker
+ 7:55.75:  387M  327G 151/164S - Build Zealot
+ 7:55.75:  287M  327G 153/164S - Move Chrono Boost From Nexus To Gateway
+ 7:58.20:  410M  346G 153/164S - Build Stalker
+ 7:58.20:  285M  296G 155/164S - Build Probe
+ 8:01.01:  379M  318G 156/164S - Build Stalker
+ 8:06.01:  509M  308G 158/164S - Build Zealot
+ 8:07.39:  479M  319G 160/164S - Build Zealot
+ 8:09.99:  512M  339G 162/164S - Build Zealot
+ 8:19.27:  892M  412G 164/179S - Build Zealot
+ 8:19.27:  792M  412G 166/179S - Build Stalker
+ 8:19.27:  667M  362G 168/179S - Build Probe
+ 8:20.37:  675M  371G 169/179S - Build Stalker
+ 8:20.37:  550M  321G 171/179S - Build Pylon
+ 8:20.37:  450M  321G 171/179S - Build Pylon
+ 8:20.37:  350M  321G 171/179S - Move Chrono Boost From Nexus To Gateway
+ 8:20.37:  350M  321G 171/179S - Build Probe
+ 8:20.37:  300M  321G 172/179S - Build Pylon
+ 8:20.37:  200M  321G 172/179S - Build Probe
+ 8:22.42:  250M  337G 173/179S - Build Void Ray
+ 8:24.97:  125M  207G 176/179S - Build Stalker
+ 8:38.49:  711M  263G 178/203S - Build Stalker
+ 8:38.49:  586M  213G 180/203S - Build Stalker
+ 8:38.49:  461M  163G 182/203S - Build Stalker
+ 8:38.49:  336M  113G 184/203S - Build Zealot
+ 8:38.49:  236M  113G 186/203S - Build Stalker
+ 8:43.22:  372M  100G 188/203S - Build Zealot
+ 8:45.88:  419M  121G 190/203S - Build Sentry
+
+Waypoint 2 satisfied:
+ 9:09.19: 1656M  205G 192/203S
+Income:   2400M  342G
+Buildings:  5 Nexus 16 Pylon 3 Assimilator 9 Gateway 1 Cybernetics Core 1 Twilight Council 1 Templar Archives 1 Stargate
+Units:      65 Probe 20 Zealot 30 Stalker 5 Sentry 1 High Templar 5 Void Ray
+Research:
